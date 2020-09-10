@@ -1,0 +1,10 @@
+; Add this to your polybar config!
+[module/corona]
+type = custom/script
+format = <label>
+label=%output%
+; change this to where your script is
+exec = ~/.scripts/covid.sh
+tail=false
+interval = 100
+
