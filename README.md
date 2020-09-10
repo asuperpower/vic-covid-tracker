@@ -1,5 +1,5 @@
 # vic-covid-tracker
-Shows the amount of covid cases and information from a bash script. Includes a polybar module to integrate into your taskbar.
+Shows the amount of covid cases and information from a bash script. Includes a polybar module to integrate into your taskbar. Inspired by Luke Smiths one -- https://youtu.be/cQ03v4d3QEo
 
 ## How does it work?
 Scrapes the Victorian DHHS website for the covid numbers and updates them every hour.
