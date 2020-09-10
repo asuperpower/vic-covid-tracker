@@ -6,6 +6,6 @@ Scrapes the Victorian DHHS website for the covid numbers and updates them every 
 
 ## Screenshots
 ### Tracker in polybar
-[!Victorian Covid tracker in Polybar](/screenshots/polybar.jpg)
+![Victorian Covid tracker in Polybar](/screenshots/polybar.jpg)
 ### Tracker in console
-[!Victorian Covid tracker in terminal window](/screenshots/console.jpg)
+![Victorian Covid tracker in terminal window](/screenshots/console.jpg)
